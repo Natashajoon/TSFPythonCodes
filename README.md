@@ -22,7 +22,7 @@
 
 - 📫 How to reach me *natashabanerji@gmail.com*
 
-- ⚡ Fun fact *all these are done by # my bestie #, [Archisman](https://github.com/ArchismanKarmakar).*
+- ⚡ Fun fact *all these are done by <b>my bestie</b>, [Archisman](https://github.com/ArchismanKarmakar).*
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natashajoon&label=Profile%20views&color=0e75b6&style=flat-square" alt="natashajoon" /> </p>
