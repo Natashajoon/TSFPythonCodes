@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- AIR 10785 GMR JEE Advanced 2021
+<!-- - AIR 10785 GMR JEE Advanced 2021 -->
 
 - 🌱 I’m currently learning *Web Development, MERN Stack, Machine Learning.*
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me *natashabanerji@gmail.com*
 
-- ⚡ Fun fact *all these are done by <b>my bestie</b>, [Archisman](https://github.com/ArchismanKarmakar).*
+- ⚡ Fun fact *all these are done by <b>my bestie, [Archisman](https://github.com/ArchismanKarmakar)</b>.*
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natashajoon&label=Profile%20views&color=0e75b6&style=flat-square" alt="natashajoon" /> </p>
